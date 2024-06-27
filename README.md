@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mahedi ALi and I'm a CMS Developer & Digital Marketer, from Gujarat</p>
+<p align="left">My name is Mahediali Khorjiya and I'm a CMS Developer, Digital Marketer & UI/UX Designer</p>
 
 ###
 
